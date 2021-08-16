@@ -1,4 +1,4 @@
-Live-Demo vom 26.02.2021
+Live-Demo
 ========================
 
 Traktandum
@@ -14,39 +14,6 @@ Traktandum
     * Dokumentation
     * GIS
 
-Notizen
--------
-1. Feedback
-    ```
-    * 
-    ```
-
-    1. Fachwoche allgemein
-        ```
-        * Teamarbeit stärker betonen, z.B. in Form von Sitzungen o.Ä. (ese)
-        ```
-    1. Aufgaben
-        ```
-        * Auftrag etwas genauer definieren, damit Einsteiger besser geführt werden (afs)
-        ```
-    1. Dokumentation
-        ```
-        * Anleitungen sind gut verständlich geschrieben (baj)
-        ```
-    1. GIS
-        ```
-        *  Gute Arbeit, Unterstützung (ese, sca, stl, kop)
-        ```
-
-
----
-`archiviert:`
-
-
-
-
-Live-Demo vom 19.02.2021
-========================
 
 Traktandum
 ----------
@@ -63,10 +30,3 @@ Notizen
 -------
 1. GitHub Desktop ist mit [Electron (Framework)](https://de.wikipedia.org/wiki/Electron_(Framework))
    erstellt.
-
-Aufgaben
---------
-
-* CSS Styling der Webseite (stl, sca)
-* uhr.html (ese)
-* navigation, links
