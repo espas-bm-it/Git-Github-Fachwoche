@@ -1,24 +1,4 @@
 # Organisation
-## Programm
-| Was?        | Wann?     |
-| ----------- | --------- |
-| FW Input:   | Mo, 15.2  |
-| FW Demo 1:  | Fr, 19.2  |
-| FW Demo 2:  | Fr, 26.2  |
-
-### Bemerkungen
-* 2 Wochen = 2 Release Cycles
-
-## Erreichbarkeit GIS
-Wer? | `@espas` | `@home` (via Teams)
---- | --- | ---
-wim: | Mo, Di | Mi-Fr
-hus: | Mo-Mi | Do, Fr
-
-### Bemerkungen
-* Die GIS sind am **25. Februar** in der Schule.
-  Antworten auf Fragen können sich an diesem Tag verzögern.
-
 
 # Besprechung Einführungsaufgaben
 ## Wozu braucht man `git`?
