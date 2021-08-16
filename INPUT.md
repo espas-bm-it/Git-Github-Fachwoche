@@ -1,5 +1,3 @@
-# Organisation
-
 # Besprechung Einführungsaufgaben
 ## Wozu braucht man `git`?
 * `git' ist eine freie Software zur verteilten Versionsverwaltung von Dateien, 
