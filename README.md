@@ -6,7 +6,7 @@ Der Release v1.0 findet am xx.xx.2021 statt. Der Release v2.0 findet am xx.xx.20
 
 ## Ressourcen
 Die OneNote Seite zum Projekt befindet sich unter 
-[Fachwoche Aufgaben Webansicht](#)
+[Fachwoche Aufgaben](#)
 
 
 Die Features werden im ClickUp festgehalten.
@@ -32,5 +32,5 @@ Release branches: release/
 Hotfix branches: hotfix/  
 Support branches: support/  
  
-Diese Grafik bildet einen Git-flow-workflow ab.
+Diese Grafik bildet einen Git-Workflow ab.
 ![Eine Commit-Grafik](https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg?cdnVersion=1342)
