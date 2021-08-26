@@ -12,7 +12,7 @@ Die OneNote Seite zum Projekt befindet sich unter
 Die Features werden im ClickUp festgehalten.
 [ClickUp Feature-List](https://app.clickup.com/1371872/v/l/li/44495875?pr=2445872)
 
-# Spezifisches zum Repo
+# Spezifisches zum Repository
 
 ## Workflow
 Wenn in diesem Repository gearbeitet wird, muss dieser Workflow eingehalten werden.  
