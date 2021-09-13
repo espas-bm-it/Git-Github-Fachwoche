@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>GIS Template</title>
+</head>
+<body>
+    <nav>
+      <ul>
+         <li><a href="help.html">Hilfe</a></li>
+         <li><a href="#news">Link2</a></li>
+         <li><a href="#contact">Link1</a></li>
+         <li id="logo"><a href="#about">GIS - Template</a></li>
+       </ul>
+    </nav>
+    
+    <header>
+       <div class="heading">
+          <h1>GIS-Template</h1>
+          <p>Fachwoche Git</p>
+       </div>
+    </header>
+
+    <main class="grid-parent">
+      
+      <aside>
+         <h2>Inhaltsverzeichnis</h2>
+         <ul id="aside">
+            <li>
+               <a href="#item1">Arbeiten mit Git</a>
+               <ul>
+                  <li>
+                     <a href="#item2">Auflistung der wichtigsten Befehle</a>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </aside>
+
+      <section> 
+         <article>
+             <h2>Git Befehle</h2>
+             <p class="autor">Sibylle Gehring</p>
+             <h3>Arbeiten mit Git</h3>
+             <p>Um mit Git über Windows Arbeiten zu können, ist die Installation von <a href="https://gitforwindows.org/">Git Bash</a> von Nöten. Nach der erfolgreichen Installation kann das Arbeiten mit Git losgehen. </p>
+             <p>Über das Windows Terminal können verschiedenste Git Befehle ausgeführt werden, die unter anderem auch das Arbeiten mit GitHub ermöglichen. Neben der Arbeit mit dem Windows Terminal gibt es zwar die Desktop Version für GitHub. Diese ist zwar einfach zu bedienen, aber hat auch viel Fehlerpotential weswegen die meisten davon abraten. Die Bedienung über das Terminal kann zwar abschreckend wirken, aber am Ende ist es keine Zauberei. Um das Bedienen etwas angenehmer zu gestalten habe ich eine Liste der Wichtigsten Git- Befehle erstellt, diese ist weiter unten zu finden. Sobald man diese etwas verinnerlicht hat, ist man sehr wahrscheinlich sogar schneller als mit der GitHub Desktop Version und Vermeidet so auch unnötige Fehler die vom Programm aus entstehen können.</p>
+             <h3>Auflistung der wichtigsten Befehle</h3>
+             <table>
+               <table border="1">
+                  <tr>
+                     <th>Befehle</th>
+                     <th>Beschreibung</th>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git add*</td>
+                     <td>Alle Aktualisierung wird in den nächsten Commit aufgenommen.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git comit –m "<em>commit Beschreibung</em>"</td>
+                     <td>Speicherung mit zusätzlicher Beschreibung.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git push</td>
+                     <td>Lädt die Datei im Repository hoch.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git push –set-upstream origin <em>branch_name</em></td>
+                     <td>Vor dem Ersten Push, Push den ganzen Branch.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git merge </td>
+                     <td>Wird zum Zusammenfügen von z.B. Branches verwendet.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git status</td>
+                     <td>Zeigt den Status an.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git branch -a</td>
+                     <td>Zeigt die Branchhierarchie an.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git log</td>
+                     <td>Zeigt alle commits an die gemacht wurden.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git branch "<em>Branchname"</em></td>
+                     <td>Erstellt einen neuen Branch mit dem gewählten Namen.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git log --oneline</td>
+                     <td>Zeigt die Hash-Codes der bisherigen Commits an.</td>
+                  </tr>
+                  <tr>
+                     <td style="font-family:'Consolas'">git checkout <em>Branchname/Commit Hash-Code</em></td>
+                     <td>Ermöglicht die Navigierung auf Branches oder auch Commits.</td>
+                  </tr>
+
+               </table>
+               </table>
+         </article>
+     </section>
+     
+    </main>
+    <footer>
+      <p>© 2021 - GIS | Designed by baj & afs</p>
+    </footer>
+</body>
+</html>
